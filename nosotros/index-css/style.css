@@ -1,0 +1,733 @@
+.mac-book-pro-16-3,
+.mac-book-pro-16-3 * {
+  box-sizing: border-box;
+}
+.mac-book-pro-16-3 {
+  background: #f1f1f1;
+  height: 3340px;
+  position: relative;
+  overflow: hidden;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  background: #133e87;
+  width: 1730px;
+  height: 39px;
+  position: absolute;
+  left: -2px;
+  top: 3301px;
+}
+._2024-gaterinaria-todos-los-derechos-reservados {
+  color: #c7c7c7;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 237px;
+  top: 3313px;
+  width: 463px;
+  height: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.logotipo-de-instagram-1 {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 1449px;
+  top: 3307px;
+  object-fit: cover;
+}
+.facebook-1 {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 1371px;
+  top: 3305px;
+  object-fit: cover;
+}
+.testimonios {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-16 {
+  background: #ffffff;
+  width: 530px;
+  height: 232px;
+  position: absolute;
+  left: 263px;
+  top: 3002px;
+}
+.rectangle-17 {
+  background: #ffffff;
+  width: 530px;
+  height: 232px;
+  position: absolute;
+  left: 950px;
+  top: 3004px;
+}
+.testimonios2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 263px;
+  top: 2666px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.de-nuestros-visitantes {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: absolute;
+  left: 263px;
+  top: 2745px;
+  width: 445px;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.testimonio1 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 427px;
+  top: 3027px;
+  width: 312px;
+  height: 112px;
+}
+.alguien {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: 427px;
+  top: 3178px;
+  width: 64px;
+  height: 22px;
+}
+.testimonio2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1113px;
+  top: 3027px;
+  width: 312px;
+  height: 112px;
+}
+.filios-gato-gatos-1024-x-998-1 {
+  width: 380px;
+  height: 386px;
+  position: absolute;
+  left: 1060px;
+  top: 2552px;
+  object-fit: cover;
+}
+.mask-group {
+  width: 94px;
+  height: 94px;
+  position: absolute;
+  left: 301px;
+  top: 3022px;
+  overflow: visible;
+}
+.mask-group2 {
+  width: 94px;
+  height: 94px;
+  position: absolute;
+  left: 989px;
+  top: 3022px;
+  overflow: visible;
+}
+.otra-persona {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: 1113px;
+  top: 3200px;
+  width: 273px;
+  height: 22px;
+}
+.welcome {
+  position: absolute;
+  inset: 0;
+}
+.image {
+  width: 1736px;
+  height: 961px;
+  position: absolute;
+  left: -5px;
+  top: 41px;
+  object-fit: cover;
+}
+.nuestro-equipo {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Black", sans-serif;
+  font-size: 64px;
+  font-weight: 900;
+  position: absolute;
+  left: 260px;
+  top: 262px;
+  width: 595px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.equipo {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 264px;
+  top: 363px;
+  width: 587px;
+}
+.sobre-nosotros {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  position: absolute;
+  left: 264px;
+  top: 215px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-92 {
+  background: #133e87;
+  width: 1728px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ejemplo-gmail-com {
+  color: #c7c7c7;
+  text-align: right;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1281px;
+  top: 11px;
+  width: 200px;
+  height: 13px;
+}
+._809-123-4567 {
+  color: #c7c7c7;
+  text-align: right;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1061px;
+  top: 13px;
+  width: 200px;
+  height: 13px;
+}
+._809-123-4567-span {
+  color: #c7c7c7;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+._809-123-4567-span2 {
+  color: #c7c7c7;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.ring-phone-1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1139px;
+  top: 8px;
+  object-fit: cover;
+}
+.carta-1 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 1351px;
+  top: 11px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.nav {
+  width: 1728px;
+  height: 88px;
+  position: static;
+}
+.rectangle-10 {
+  background: #ffffff;
+  width: 1728px;
+  height: 88px;
+  position: absolute;
+  left: 0px;
+  top: 39px;
+}
+.logo-1 {
+  width: 300px;
+  height: 61px;
+  position: absolute;
+  left: 230px;
+  top: 53px;
+  object-fit: cover;
+}
+.inicio {
+  color: #133e87;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 704px;
+  top: 71px;
+  width: 81px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.servicios {
+  color: #133e87;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 815px;
+  top: 71px;
+  width: 81px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.testimonios3 {
+  color: #133e87;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1041px;
+  top: 71px;
+  width: 113px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contacto {
+  color: #133e87;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1185px;
+  top: 71px;
+  width: 85px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nosotros {
+  color: #133e87;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 927px;
+  top: 71px;
+  width: 83px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-11 {
+  background: #133e87;
+  border-radius: 6px;
+  width: 153px;
+  height: 32px;
+  position: absolute;
+  left: 1327px;
+  top: 66px;
+}
+.app-m-vil {
+  color: #c7c7c7;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1333px;
+  top: 68px;
+  width: 141px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.group-1 {
+  width: 377px;
+  height: 782px;
+  position: static;
+}
+.rectangle-20 {
+  background: #ffffff;
+  width: 377px;
+  height: 782px;
+  position: absolute;
+  left: 260px;
+  top: 848px;
+}
+.dr-melissa-lord {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 333px;
+  top: 1206px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.veterinaria {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 333px;
+  top: 1237px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vet {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 286px;
+  top: 1279px;
+  width: 325px;
+  height: 314px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask-group3 {
+  width: 334px;
+  height: 305px;
+  position: absolute;
+  left: 282px;
+  top: 886px;
+  overflow: visible;
+}
+.group-4 {
+  width: 377px;
+  height: 782px;
+  position: static;
+}
+.rectangle-202 {
+  background: #ffffff;
+  width: 377px;
+  height: 782px;
+  position: absolute;
+  left: 260px;
+  top: 1674px;
+}
+.dr-melissa-lord2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 333px;
+  top: 2032px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.veterinaria2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 333px;
+  top: 2063px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vet2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 286px;
+  top: 2105px;
+  width: 325px;
+  height: 314px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask-group4 {
+  width: 334px;
+  height: 305px;
+  position: absolute;
+  left: 282px;
+  top: 1712px;
+  overflow: visible;
+}
+.group-2 {
+  width: 377px;
+  height: 782px;
+  position: static;
+}
+.rectangle-203 {
+  background: #ffffff;
+  width: 377px;
+  height: 782px;
+  position: absolute;
+  left: 682px;
+  top: 848px;
+}
+.dr-melissa-lord3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 755px;
+  top: 1206px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.veterinaria3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 755px;
+  top: 1237px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vet3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 708px;
+  top: 1279px;
+  width: 325px;
+  height: 314px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask-group5 {
+  width: 334px;
+  height: 305px;
+  position: absolute;
+  left: 704px;
+  top: 886px;
+  overflow: visible;
+}
+.group-5 {
+  width: 377px;
+  height: 782px;
+  position: static;
+}
+.rectangle-204 {
+  background: #ffffff;
+  width: 377px;
+  height: 782px;
+  position: absolute;
+  left: 682px;
+  top: 1674px;
+}
+.dr-melissa-lord4 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 755px;
+  top: 2032px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.veterinaria4 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 755px;
+  top: 2063px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vet4 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 708px;
+  top: 2105px;
+  width: 325px;
+  height: 314px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask-group6 {
+  width: 334px;
+  height: 305px;
+  position: absolute;
+  left: 704px;
+  top: 1712px;
+  overflow: visible;
+}
+.group-3 {
+  width: 377px;
+  height: 782px;
+  position: static;
+}
+.rectangle-205 {
+  background: #ffffff;
+  width: 377px;
+  height: 782px;
+  position: absolute;
+  left: 1104px;
+  top: 848px;
+}
+.dr-melissa-lord5 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1177px;
+  top: 1206px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.veterinaria5 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1177px;
+  top: 1237px;
+  width: 231px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vet5 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1130px;
+  top: 1279px;
+  width: 325px;
+  height: 314px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask-group7 {
+  width: 334px;
+  height: 305px;
+  position: absolute;
+  left: 1126px;
+  top: 886px;
+  overflow: visible;
+}
