@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
   
     // 5. Copiar correo al portapapeles al hacer clic
-    const correo = document.querySelector('.ejemplo-gmail-com');
+    const correo = document.querySelector('.ejemplo-gmail-com2');
     if (correo) {
       correo.style.cursor = 'pointer';
       correo.title = 'Haz clic para copiar el correo';
@@ -70,8 +70,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
       });
     }
-  
-  
     // 6. Scroll dinámico para resaltar la sección actual
     const sections = document.querySelectorAll('section, div[id]');
     
@@ -95,7 +93,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   
   });
-  
+
+
+
+
   
   // Nota: Clase "activo" puede ser estilizada en CSS para marcar el enlace activo.
   
